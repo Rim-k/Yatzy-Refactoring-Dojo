@@ -1,15 +1,5 @@
 ﻿# Yatzy Refactoring Kata
 
-This Refactoring Kata was designed by Jon Jagger and is available in his Cyber-Dojo. See [his blog post](http://jonjagger.blogspot.co.uk/2012/05/yahtzee-cyber-dojo-refactoring-in-java.html)
-
-I have changed it a little, so that the rules more closely match the original game.
-
-The other language translations have been contributed by:
-
-- Python: Emily Bache
-- Ruby: Kim Persson and Lennart Fridén
-- Javascript: Antti Tarvainen
-
 ## Kata: Yatzy rules
 
 The game of Yatzy is a simple dice game. Each player
